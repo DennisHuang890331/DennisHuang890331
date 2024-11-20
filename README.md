@@ -9,7 +9,7 @@ I earned my bachelor's degree from National Central University and a master's de
 🎓碩士論文 Thesis  
 基於深度導引特徵及語意損失函數的實時去雨方法  
 Depth-Guided Feature and Semantic Loss for Real-Time Rain Removal  
-Repository  
+[Repository](https://github.com/DennisHuang890331/The-Depth-Guided-Features-and-Semantic-Loss-based-Rain-Removal-Method-for-Enhancing-Scene-Understand)  
 
 🎓畢業專題 Capstone Project  
 FESTO產線排程優化技術  
