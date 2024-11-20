@@ -1,8 +1,20 @@
 # Introduction
 
-Hi, I am Dennis.  
-我大學畢業於國立中央大學，目前在國立台灣大學就讀碩士學位，專業範疇涵蓋自動駕駛相關技術、電腦視覺、機器學習以及深度學習。  
-我熱衷於將理論以及知識像是深度學習、機器學習演算法，應用於實務任務中以解決該任務中的痛點議題，例如：**農業文章文字標註及辨識、運用深度學習技術增強在動態環境下SLAM的通用性以及穩定性、運用深度學習技術預測非線性加工時間進而優化製造排程效率**，另外我也不斷的學習深度學習在視覺任務上的最新技術，增強我在專業領域的知識量，例如：Reproduction ECCV 2018 DeepLabV3+、CVPR 2019 PointPillars、CVPR 2021 CenterPoint、NeurIPS 2021 Segformer、ICLR 2020 Vision transformer、ICCV 2021 Swin Transformer、CVPR 2022 Mask AutoEncoder等等模型經驗。
+Hi. 我是黃曜駿.  
+我於國立中央大學取得學士學位，隨後於國立台灣大學完成碩士學位。我的研究興趣涵蓋自動駕駛技術、電腦視覺、機器學習及深度學習。我對自動駕駛技術充滿熱情，擁有豐富的機械工程和控制系統經驗。在國立台灣大學攻讀碩士學位期間，我參與了多個項目，如食品配送自主移動機器人和2023年迪拜世界自駕運輸挑戰賽，在其中負責領導感知團隊，並最終獲得第三名。我撰寫的碩士論文專注於惡劣天氣條件下自動駕駛的安全挑戰，並獲得了工學院研究生院長獎，且一並提交給國際期刊。目前，我計劃申請博士學位，繼續探索並提高自駕技術的安全性和可靠性。  
+
+Hi. I am Yao-Jiun Huang (Dennis Huang).  
+I earned my bachelor's degree from National Central University and a master's degree from National Taiwan University. My research interests lie in autonomous driving technology, computer vision, SLAM, machine learning, and deep learning. I have a profound passion for autonomous driving technology, supported by extensive experience in mechanical engineering and control systems. During my master's studies at National Taiwan University, I participated in various projects, such as a food delivery autonomous mobile robot and the 2023 Dubai World Challenge for Self-Driving Transport, where I led the perception team and achieved third place. My master's thesis focused on the safety challenges of autonomous driving in adverse weather conditions, earning me the Dean's Award for Graduate Students from the College and being submitted to an international journal. Currently, I plan to pursue a Ph.D. to further explore and enhance the safety and reliability of autonomous driving technologies.  
+
+🎓碩士論文 Thesis  
+基於深度導引特徵及語意損失函數的實時去雨方法  
+Depth-Guided Feature and Semantic Loss for Real-Time Rain Removal  
+Repository  
+
+🎓畢業專題 Capstone Project  
+FESTO產線排程優化技術  
+Integrating of Scheduling Optimization and Deep Learning in Factory  
+[Repository](https://github.com/DennisHuang890331/festo-scheduling)
 
 📋 Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -14,13 +26,16 @@ Hi, I am Dennis.
 ![Pytorch](https://img.shields.io/badge/Pytorch-3964C3.svg?style=for-the-badge&logo=Pytorch&logoColor=white)
 
 ### Awards 🏆
+🥇 2024 台大工學院研究生院長獎  
+2024 Dean’s Award for Graduate Students, College of Engineering 
 
-🥇 2021 教育部全國大專校院人工智慧競賽(AI CUP)  
-農業文章文字標註及辨識競賽 **第四名 優等**  
-相關連結：  
-[獲獎名單](https://www.aicup.tw/_files/ugd/7fbdbf_c71e035acd4d43e7874c5c6aeeb88f65.pdf)  
-🥇 2023 Dubai World Congress For Self-Driving Transport  
-代表國立台灣大學參加杜拜全球自駕車競賽  
+🥇 2023 Dubai World Congress For Self-Driving Transport, **Third place**  
 相關連結：  
 [Dubai RTA Official Website](https://sdcongress.com/finalists-2023/)  
 [Dubai World Challenge for Self-Driving Transport 2023 YouTube](https://youtu.be/6c4LehbiVw8?si=2fpIv86UjSPvDYcj)  
+
+🥇 2021 教育部全國大專校院人工智慧競賽(AI CUP), **第三名 優等**  
+2021 Ministry of Education 2021 Artificial Intelligence CUP Award, **Third place**  
+相關連結：  
+[獲獎名單](https://www.aicup.tw/_files/ugd/7fbdbf_c71e035acd4d43e7874c5c6aeeb88f65.pdf)  
+
