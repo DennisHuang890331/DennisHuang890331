@@ -29,9 +29,9 @@ Integrating of Scheduling Optimization and Deep Learning in Factory
 🥇 2024 台大工學院研究生院長獎  
 2024 Dean’s Award for Graduate Students, College of Engineering 
 
-🥇 2023 Dubai World Congress For Self-Driving Transport, **Third place**  
+🥇 2023 Dubai World Challenge  For Self-Driving Transport, **Third place**  
 相關連結：  
-[Dubai RTA Official Website](https://sdcongress.com/finalists-2023/)  
+[NTU Report](https://ntuhighlights.ntu.edu.tw/News_Content_n_171094_s_239242.html)  
 [Dubai World Challenge for Self-Driving Transport 2023 YouTube](https://youtu.be/6c4LehbiVw8?si=2fpIv86UjSPvDYcj)  
 
 🥇 2021 教育部全國大專校院人工智慧競賽(AI CUP), **第三名 優等**  
